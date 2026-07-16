@@ -5,9 +5,9 @@
 
 ## 🌟 About me
 
-- 💼 I'm currently studying Computer Science at UFSJ – Federal University of São João del Rei.
-- 🎓 Currently learning: **Python**
-- 💡 Interests: **Modeling, Optimization, CyberSec, Aerodesign**
+ -> I'm currently studying Computer Science at UFSJ – Federal University of São João del Rei.
+ -> Currently learning: **Python**
+ -> Interests: **Modeling, Optimization, CyberSec, Aerodesign**
 
 ---
 <!--
@@ -23,7 +23,7 @@
 ---
 --->
 
-## 🧠 Technologies I use / study
+## 🧠 Languages I study
 
 <div style="display: inline_block"><br>
   <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
@@ -35,8 +35,8 @@
 
 ---
 
-## 🚀 A bit more about me…
-- 🎮 Hobbies: **Reading, cooking, running**  
-- 🌐 I'm from São João del Rei, Minas Gerais.
+## 🚀 Out of work
+- I like to read, to run and I cook a lot! 
+- I'm from São João del Rei, Minas Gerais.
   
 ---
