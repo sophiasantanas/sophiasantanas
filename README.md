@@ -11,7 +11,7 @@
 - 💡 Interesse em: **Modelagem, Otimização, CyberSec**
 
 ---
-
+<!--
 ## 📊 Minhas Estatísticas no GitHub
 
 <div align="center">
@@ -22,6 +22,7 @@
 </div>
 
 ---
+--->
 
 ## 🧠 Tecnologias que eu uso / estudo
 
