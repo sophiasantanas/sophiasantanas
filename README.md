@@ -1,11 +1,11 @@
-<h1 align="center"> Seja bem-vindo ao meu Github.
+<h1 align="center"> Seja bem-vindo ao meu Github!
 </p>
 
 ---
 
 ## 🌟 Sobre mim
 
-- 💼 Estou cursando Ciência da Computação na Universidade Federal de São João del Rei
+- 💼 Estou cursando Ciência da Computação na UFSJ - Universidade Federal de São João del Rei.
 - 🎓 Estudando atualmente: **Python**
 - 💡 Interesse em: **Modelagem, Otimização, CyberSec, Aerodesign**
 
