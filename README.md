@@ -1,5 +1,4 @@
-<h1 align="center"> Prazer, meu nome é Sophia!
-  Bem-vindo(a) ao meu perfil do GitHub! 💻✨
+<h1 align="center"> Oie, seja bem-vindo.
 </p>
 
 ---
