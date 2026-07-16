@@ -1,17 +1,17 @@
-<h1 align="center"> Seja bem-vindo(a) ao meu Github!
+<h1 align="center"> Welcome to my GitHub!
 </p>
 
 ---
 
-## 🌟 Sobre mim
+## 🌟 About me
 
-- 💼 Estou cursando Ciência da Computação na UFSJ - Universidade Federal de São João del Rei.
-- 🎓 Estudando atualmente: **Python**
-- 💡 Interesse em: **Modelagem, Otimização, CyberSec, Aerodesign**
+- 💼 I'm currently studying Computer Science at UFSJ – Federal University of São João del Rei.
+- 🎓 Currently learning: **Python**
+- 💡 Interests: **Modeling, Optimization, CyberSec, Aerodesign**
 
 ---
 <!--
-## 📊 Minhas Estatísticas no GitHub
+## 📊 My GitHub Stats
 
 <div align="center">
   
@@ -23,7 +23,7 @@
 ---
 --->
 
-## 🧠 Tecnologias que eu uso / estudo
+## 🧠 Technologies I use / study
 
 <div style="display: inline_block"><br>
   <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
@@ -33,44 +33,10 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-<!--
-
-## 🌐 Onde me encontrar
-
-<div align="left">
-
-   Troque os links pelos seus 
-
-  <a href="https://www.youtube.com/@SEU-CANAL" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-  </a>
-
-  <a href="https://www.instagram.com/SEU-USUARIO" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-
-  <a href="https://www.twitch.tv/SEU-USUARIO" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
-  </a>
-
-  <a href="https://discord.gg/SEU-SERVIDOR" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-  </a>
-
-  <a href="mailto:seu.email@exemplo.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-
-  <a href="https://www.linkedin.com/in/SEU-USUARIO" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-
-</div> -->
-
 ---
 
-## 🚀 Um pouco mais…
-- 🎮 Hobbies: **Leitura, culinária, corrida**  
-- 🌐 Venho de São João del Rei, Minas Gerais.
+## 🚀 A bit more about me…
+- 🎮 Hobbies: **Reading, cooking, running**  
+- 🌐 I'm from São João del Rei, Minas Gerais.
   
 ---
