@@ -7,7 +7,7 @@
 
 - 💼 Estou cursando Ciência da Computação na Universidade Federal de São João del Rei
 - 🎓 Estudando atualmente: **Python**
-- 💡 Interesse em: **Modelagem, Otimização, CyberSec**
+- 💡 Interesse em: **Modelagem, Otimização, CyberSec, Aerodesign**
 
 ---
 <!--
@@ -69,7 +69,7 @@
 
 ---
 
-## 🐱‍👤 Um pouco mais…
+## 🚀 Um pouco mais…
 - 🎮 Hobbies: **Leitura, culinária, corrida**  
 - 🌐 Venho de São João del Rei, Minas Gerais.
   
