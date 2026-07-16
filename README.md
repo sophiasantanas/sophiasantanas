@@ -36,7 +36,7 @@
 ---
 
 ## 🚀 Out of work
-- I like to read, to run and I cook a lot! 
+- I like to read, to cook and I run a lot! 
 - I'm from São João del Rei, Minas Gerais.
   
 ---
