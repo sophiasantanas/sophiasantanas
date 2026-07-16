@@ -6,7 +6,7 @@
 ## 🌟 About me
 
 - I'm currently studying Computer Science at UFSJ – Federal University of São João del Rei.
-- Currently learning: **Python**
+- Currently learning: **Git and Python**
 - Interests: **Modeling, Optimization, CyberSec, Aerodesign**
 
 ---
