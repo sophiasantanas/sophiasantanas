@@ -1,4 +1,4 @@
-<h1 align="center"> Oie, seja bem-vindo.
+<h1 align="center"> Seja bem-vindo ao meu Github.
 </p>
 
 ---
