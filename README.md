@@ -1,4 +1,4 @@
-<h1 align="center"> Welcome to my GitHub!
+<h1 align="center"> Sophia Santana
 </p>
 
 ---
@@ -6,7 +6,6 @@
 ## 🌟 About me
 
 - I'm currently studying Computer Science at UFSJ – Federal University of São João del Rei.
-- Currently learning: **Git and Python**
 - Interests: **Modeling, Optimization, CyberSec, Aerodesign**
 
 ---
